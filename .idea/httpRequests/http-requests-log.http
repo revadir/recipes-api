@@ -1,0 +1,14 @@
+GET http://localhost:8080
+
+<> 2022-07-11T223038.200.json
+
+###
+
+GET http://curl%20-X%20GET
+
+###
+
+GET http://curl%20-X%20GET%20localhost:8080
+
+###
+
